@@ -1,6 +1,1 @@
-# Obstacle-detection-using-Arduino-
-
-
-
-
-
+"Obstacle Detection Using Arduino" is a popular electronics project that involves using an Arduino microcontroller to detect the presence of objects or obstacles in front of a sensor. This project is commonly used in robotics, automation systems, and smart vehicle applications.
