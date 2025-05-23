@@ -1,0 +1,3 @@
+The HC-SR04 ultrasonic sensor sends out an ultrasonic pulse and measures the time it takes to reflect back from an object. The Arduino calculates the distance based on the speed of sound.
+
+Distance = (Time × Speed of Sound) / 2
